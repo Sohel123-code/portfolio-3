@@ -6,7 +6,7 @@ const sections = [
     title: 'About Me',
     icon: '👋',
     content: [
-      "I am Sohel, a motivated Computer Science and Engineering (CSE) student with a strong passion for software development, problem solving, and building real-world applications.",
+      "I am Md Khaja Eshaq, a motivated Computer Science and Engineering (CSE) student with a strong passion for software development, problem solving, and building real-world applications.",
       'I enjoy learning new technologies and turning ideas into working products that create impact.',
     ],
   },

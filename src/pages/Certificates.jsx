@@ -25,7 +25,7 @@ const certificates = [
     issuer: 'Innoyudh',
     date: '2025',
     pdfPath: innoyudhCert,
-    description: 'Innoyudh hackathon participation',
+    description: 'Innoyudh hackathon participation ,In NSRIT college Visakhapatnam on 12th december 2025',
     category: 'hackathons',
   },
   {
@@ -34,8 +34,8 @@ const certificates = [
     issuer: 'Google Developer Groups',
     date: '2025',
     pdfPath: gdgDevFestCert,
-    description: 'GDG Dev Fest participation',
-    category: 'hackathons',
+    description: 'Google developer group (GDG)  Dev Fest participation in Gitam University visakhapatnam ',
+    category: 'events',
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const certificates = [
     issuer: 'Piston Cup',
     date: '2025',
     pdfPath: pistonCupCert,
-    description: 'Piston Cup hackathon participation',
+    description: 'Piston Cup hackathon participation, which was held in Vignans institute of technology visakhapatnam',
     category: 'hackathons',
   },
   // Courses
@@ -53,7 +53,7 @@ const certificates = [
     issuer: 'Microsoft',
     date: '2025',
     pdfPath: microsoft1Cert,
-    description: 'Microsoft course certification',
+    description: 'Microsoft -Azure cloud computing course certification by Microsoft',
     category: 'courses',
   },
   {
@@ -62,7 +62,7 @@ const certificates = [
     issuer: 'Microsoft',
     date: '2025',
     pdfPath: microsoft2Cert,
-    description: 'Microsoft course certification',
+    description: 'Microsoft-Azure cloud computing course certification-2 by Microsoft',
     category: 'courses',
   },
   {
@@ -71,26 +71,26 @@ const certificates = [
     issuer: 'Microsoft',
     date: '2025',
     pdfPath: microsoft3Cert,
-    description: 'Microsoft course certification',
+    description: 'Microsoft -Azure cloud computing course certification-3 by Microsoft',
     category: 'courses',
   },
   {
     id: 7,
     title: 'SSDLC Certificate',
-    issuer: 'SSDLC',
+    issuer: 'CDAC and Ministry of electronics and information technology',
     date: '2025',
     pdfPath: ssdlcCert,
-    description: 'SSDLC course certification',
-    category: 'courses',
+    description: 'SSDLC Conference  held in gitam university visakhapatnam by IIT Bhilai , and CDAC corporation',
+    category: 'events',
   },
   // Achievements
   {
     id: 8,
-    title: 'CodeChef Achievement',
+    title: 'CodeChef Gold Badge',
     issuer: 'CodeChef',
     date: '2025',
     pdfPath: codeChefAchievement,
-    description: 'CodeChef achievement certificate',
+    description: 'Gold Badge achievement  as participated in 50+ contests on CodeChef',
     category: 'achievements',
   },
   {
@@ -104,11 +104,11 @@ const certificates = [
   },
   {
     id: 10,
-    title: 'LeetCode Achievement',
+    title: 'LeetCode 50 days-Badge',
     issuer: 'LeetCode',
     date: '2025',
     pdfPath: leetcodeAchievement,
-    description: 'LeetCode achievement certificate',
+    description: ' 50-days consistency in problem solving on LeetCode ',
     category: 'achievements',
   },
 ];
